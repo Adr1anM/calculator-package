@@ -49,10 +49,11 @@ jobs:
     
     steps:  
     #Push NuGet package to GitHub packages
-    - name: Download nuget package artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: nugetPackage
+    # - name: Download nuget package artifact
+    #   uses: actions/download-artifact@v4
+    #   with:
+    #     name: nugetPackage
+    - run: gh run download -n nugetPackage
     - name: Prep packages
       run: dotnet nuget add source --username "Adr1anM" --password ${{ secrets.NUGET_PACKAGE_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/Adr1anM/index.json"
     - name: Push package to GitHub packages 
