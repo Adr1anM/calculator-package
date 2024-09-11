@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyClassLibrary</id>
+    <version>1.0.0</version>
+    <authors>Adrian</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>This is a sample class library</description>
+    <repository type="git" url="https://github.com/Adr1anM/calculator-package.git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/bin/Release/net8.0/CalculatorPackage.dll" target="lib/net8.0/CalculatorPackage.dll" />
+  </files>
+</package>

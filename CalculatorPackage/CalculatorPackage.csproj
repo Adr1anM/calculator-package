@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+	
+    <PropertyGroup>
+	  <PackageId>MyClassLibrary</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Adrian</Authors>
+	  <Company>Infigo</Company>
+	  <Description>This is a sample class library</Description>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/Adr1anM/calculator-package.git</RepositoryUrl>
+    </PropertyGroup>	
+</Project>

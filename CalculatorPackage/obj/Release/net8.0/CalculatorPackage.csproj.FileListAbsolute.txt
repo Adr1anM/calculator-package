@@ -1,0 +1,11 @@
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/bin/Release/net8.0/CalculatorPackage.deps.json
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/bin/Release/net8.0/CalculatorPackage.dll
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/bin/Release/net8.0/CalculatorPackage.pdb
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.AssemblyInfoInputs.cache
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.AssemblyInfo.cs
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.csproj.CoreCompileInputs.cache
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.dll
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/refint/CalculatorPackage.dll
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/CalculatorPackage.pdb
+/home/adrian/RiderProjects/CalculatorPackage/CalculatorPackage/obj/Release/net8.0/ref/CalculatorPackage.dll
