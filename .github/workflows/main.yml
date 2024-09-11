@@ -40,7 +40,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: nugetPackage
-        path: Release/ 
+        path: /home/runner/work/calculator-package/calculator-package/CalculatorPackage/bin/Release 
         
   # release:
   #   runs-on: ubuntu-latest   
